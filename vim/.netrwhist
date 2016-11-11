@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/rachel/Projects/multigit/mtk/6755-shep-SYNC-C/kernel-3.18/drivers/misc/mediatek/debug_latch/lastbus/v1'
+let g:netrw_dirhist_2='/home/rachel/Projects/multigit/mtk/6755-shep-SYNC-C/kernel-3.18/arch/arm64/configs'
+let g:netrw_dirhist_3='/home/rachel/Projects/multigit/mtk/6755-crc-wave1-SYNC-C/vendor/mediatek/proprietary/bootable/bootloader/preloader/platform/mt6755/src/drivers/inc'
+let g:netrw_dirhist_4='/home/rachel/System/Share/Ramdump'
+let g:netrw_dirhist_5='/home/rachel/Projects/multigit/mtk/6755-crc-wave1-SYNC-C/vendor/mediatek/proprietary/hardware/mtkcam/legacy/htc/Hal_EXT'
