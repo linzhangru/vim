@@ -34,6 +34,11 @@ map <F4> :NERDTreeToggle<CR>
 map <C-k> :bp<CR>
 map <C-l> :bn<CR>
 map e :pop<CR>
+map qq :q!<CR>
+map qq :q!<CR>
+map qw :wq<CR> 
+map w :w<CR>
+
 
 " Taglist setting
 map <F3> :Tlist<CR>
@@ -43,7 +48,7 @@ map <F3> :Tlist<CR>
 
 " Key Map for Comment/Uncomment
 " - in Normal mode
-nmap mn :call NERDComment(0,"norm")<CR>
+nmap mn :call NERDComment(-1,"norm")<CR>
 nmap mu :call NERDComment(0,"uncomment")<CR>
 nmap mm :call NERDComment(0,"toggle")<CR>
 nmap ms :call NERDComment(0,"sexy")<CR>
